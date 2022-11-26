@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.btn{
+    width: auto;
+    height: 30px;
+    margin-bottom: px;
+    padding-bottom: 0px;
+    border: 1px solid #00B4CC;
+    background: #78c4f8;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+input{
+    height: 25px;
+    width: 200px;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    border-radius: 4px;
+    padding-bottom: 0px;
+}
