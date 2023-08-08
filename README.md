@@ -70,5 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ![image](https://github.com/Amit-rajput97/educate/assets/84862054/2ab13a0a-5cbf-46d9-983e-fe14d1032e2c)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/e139568f-79c7-48e3-8629-215c052115d8)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/8c5feec8-7183-4e04-8078-d18da6f2d12b)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/7a524bfa-ede8-4770-be02-acdeaff218bb)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/d6c86dd1-e92c-4876-9740-d70be6bee792)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/029df2e8-5fb2-415c-9ae8-8787f2588230)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/ce701b94-9a6d-4e4e-9fda-41d9c5df6e2a)
+![image](https://github.com/Amit-rajput97/educate/assets/84862054/5df9d213-9446-4c1f-b9ea-28502e9ef027)
+
 
 
